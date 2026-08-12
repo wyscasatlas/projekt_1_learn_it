@@ -1,1 +1,1 @@
-print ("Nowa funkcja!")
+print("Witaj Swiecie!")
